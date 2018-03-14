@@ -14,7 +14,7 @@
 /************************************************
 Note - 
 
-Below is implementation of a generic segment tree in three method
+Below is implementation of a generic segment tree in three methods
 
 * segtree_iter class builds the tree in iterative fashion
 
