@@ -63,7 +63,7 @@ leaf nodes
 
 /***** 
 
-EDIT NOTE  - Earlier The user passed data was stored in the class but it is now it is removed and changed to manipulating iterators passed 
+EDIT NOTE  - Earlier The user passed data was stored in a separate container but it is now it is removed and changed to manipulating iterators that are passed 
 By doing so run time was reduced and memory consumption was reduced.
 
 *****/
